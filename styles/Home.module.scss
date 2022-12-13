@@ -1,3 +1,12 @@
+.list {
+  font-size: 14px;
+}
+
+.list li {
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
 .container {
   padding: 0 2rem;
 }
@@ -10,6 +19,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 20px;
 }
 
 .footer {
